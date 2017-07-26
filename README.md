@@ -16,3 +16,7 @@ Use this [docker-compose.yml](https://github.com/Kunstmaan/docker-multichain/blo
 ```
 sudo docker-compose up
 ```
+
+## This fork
+
+Updated to beta-1
